@@ -1,0 +1,36 @@
+.img-container {
+    margin: 100px auto;
+}
+
+.btn-container {
+
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    display: block;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+button {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+button:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.next {
+    background-color: #04AA6D;
+    color: white;
+}
